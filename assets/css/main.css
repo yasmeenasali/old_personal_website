@@ -2183,7 +2183,7 @@ input, select, textarea {
 		background-attachment: fixed;
 		color: #fff;
 		text-align: center;
-		padding: 1em 0 2em 0; /*testing*/ 
+		padding: 1em 0 1em 0; /*testing*/ 
 		cursor: default;
 	}
 
@@ -2234,7 +2234,7 @@ input, select, textarea {
 
 		#header hr {
 			top: 1.5em;
-			margin-bottom: 3em;
+			margin-bottom: 1.5em;
 			border-bottom-color: rgba(192, 192, 192, 0.35);
 			box-shadow: inset 0 1px 0 0 rgba(192, 192, 192, 0.35);
 		}
