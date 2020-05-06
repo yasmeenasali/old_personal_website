@@ -1801,7 +1801,7 @@ input, select, textarea {
 
 		.image.left {
 			float: left;
-			height: 200px;
+			width: 350px;
 			margin: 0 2em 2em 0;
 		}
 
