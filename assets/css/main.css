@@ -1786,6 +1786,8 @@ input, select, textarea {
 	}
 
 		.image img { /*testing*/
+			display: block;
+			width: 100%;
 		}
 
 		.image.fit {
